@@ -5,7 +5,7 @@ A beautiful Flutter weather application that displays the current weather, upcom
 ## 📱 Preview
 
 <p align="center">
-  <img src="MainScreen.png" alt="Weather App" width="300"/>
+  <img src="lib/MainScreen.png" alt="Weather App" width="300"/>
 </p>
 
 ---
@@ -29,7 +29,7 @@ A beautiful Flutter weather application that displays the current weather, upcom
 
 | Home Screen |
 |--------------|
-| <img src="MainScreen" width="300"> |
+| <img src="lib/MainScreen.png" width="300"> |
 
 ---
 
