@@ -1,17 +1,57 @@
-# weather_app
+# 🌦️ Weather App
 
-A new Flutter project.
+A beautiful Flutter weather application that displays the current weather, upcoming forecast, and additional weather information using the OpenWeather API.
 
-## Getting Started
+## 📱 Preview
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="MainScreen.png" alt="Weather App" width="300"/>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## ✨ Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🌡️ Current temperature display
+- ☁️ Dynamic weather icons based on weather conditions
+- 🕒 Hourly weather forecast
+- 💧 Humidity information
+- 🌬️ Wind speed information
+- 📊 Atmospheric pressure
+- 🔄 Refresh button to fetch the latest weather data
+- 🎨 Clean Material Design UI
+- 🌙 Dark theme interface
+- ⚡ Asynchronous API calls using `FutureBuilder`
+
+---
+
+## 📸 Screenshots
+
+| Home Screen |
+|--------------|
+| <img src="MainScreen" width="300"> |
+
+---
+
+## 🛠️ Built With
+
+- Flutter
+- Dart
+- OpenWeather API
+- HTTP Package
+- Intl Package
+
+---
+
+## 📂 Project Structure
+
+```
+lib/
+│── main.dart
+│── weather_screen.dart
+│── hourly_forecast_item.dart
+│── additional_info_item.dart
+│── secrets.dart (ignored)
+```
+
+---
